@@ -1,0 +1,9 @@
+site-villes-francaises/
+│
+├── index.html          (Page d'accueil)
+├── paris.html          (Page sur Paris)
+├── marseille.html      (Page sur Marseille)
+├── style.css           (Fichier CSS principal)
+└── images/             (Dossier pour les images)
+    ├── paris.jpg
+    └── marseille.jpg
